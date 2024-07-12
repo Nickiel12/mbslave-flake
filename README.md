@@ -19,7 +19,7 @@ inputs = {
 };
 
 # Don't take my word for how this has to be. 
-# As long as the mbslave gets passed as a parameter to the output, it's find
+# As long as the mbslave gets passed as a parameter to the output, it's fine
 outputs = inputs@{
     # ...
     mbslave
